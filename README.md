@@ -1,2 +1,2 @@
 # My-VS
-test for setting up repo myself
+Learning more topics on python from the VSCode IDE
